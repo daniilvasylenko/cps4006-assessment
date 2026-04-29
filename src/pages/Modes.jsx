@@ -7,7 +7,7 @@ const travelModes = [
         limitation: "Can be delayed in traffic"
     },
     {
-        name: "Rail",
+        name: "Train",
         icon: "🚆",
         description: "Fast transport option for long routes across the city",
         benefit: "Quick and reliable on long distances",
